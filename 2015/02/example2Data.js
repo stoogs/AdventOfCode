@@ -1,4 +1,3 @@
-
 let example2Data = `20x3x11
 15x27x5
 6x29x7
